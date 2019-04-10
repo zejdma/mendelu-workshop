@@ -86,4 +86,9 @@ After a while if you go to "Overview" back in your browser, you should get a URL
 to your container application. You can play with `cgi-bin/form.py/?value=<XX>`
 and `cgi-bin/display.py` URLs.
 
-Bonus: Fix the bug that was shown during introduction/demo
+
+### Part 3 - Fix & deploy the bugfix
+
+Deploy the change you have made in Part 1.
+
+Bonus: Fix the demonstrated bug
